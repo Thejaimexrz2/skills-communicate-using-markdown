@@ -6,3 +6,8 @@
 ##### ´H6´ Header
 
 ![Image of an UwU](https://i.ytimg.com/vi/hgE_Cxu9hDk/maxresdefault.jpg)
+
+``` javascript
+var uwuText = "uwu";
+print(uwuText);
+```
