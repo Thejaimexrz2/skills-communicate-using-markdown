@@ -11,3 +11,7 @@
 var uwuText = "uwu";
 print(uwuText);
 ```
+
+- [X] Add CSS
+- [ ] Add Header
+- [ ] Add Aside
